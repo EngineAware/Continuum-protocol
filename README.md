@@ -1,5 +1,5 @@
 # Continuum-protocol
-Building the Infinity scanner:An open-source, non-invasive device to caputure the high fidelity data self.The first hardware step toward preventing information theortic death.
+Building the Infinity scanner:An open-source, non-invasive device to caputure the high fidelity data self.The first hardware step toward preventing information theoretic death.
 
 ## The misson
 First step towards the core of every intelligence species which is existence itself without solving the core everything is meaningless for the process
@@ -9,9 +9,19 @@ The conscious self is a dynamic signal,and the body is its temporary transmitter
 
 Process is documented daily,The work is its own justification.
 
+## Description
+Daily learning journey in Python,Rust,electronics,maths,biology and Computer science for foundation to start building the Core of everything.
+
+
 ## Live log
 * **Day001:**Project infinity.Establishing the foundation and the structure of the protocol.
-[View the Full Learning Log](./001_daily_logs/)
+[View the Full Learning Log](./1_Daily_logs/)
+
+**Python**
+[Code Files](./Python/)
+**Rust**
+[Code Files](./Rust/)
+
 
 ## Support the protocol
 This full a full-time endeavor.To sustanin the research and development,support is available here:
