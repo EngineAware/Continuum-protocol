@@ -1,0 +1,2 @@
+message="Hello python crash world!"# A tag or label which is assigned to value which is known as variable and that  are stored internally in python to identify the value just like humans
+print(message)#Its print the value that is assigned to variable
